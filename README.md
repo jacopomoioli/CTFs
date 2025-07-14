@@ -20,4 +20,5 @@ Challenges Completed:
 - Web
     - Flag L3ak (50)
 
-Really disappointed by how little i managed to do, not trying to find any excuses. 
+Really disappointed by how little i managed to do, not trying to find any excuses.
+It's been quite a big while since the last time i did a CTF, so i need to get a bit more used to the loop and keep pushing. 
