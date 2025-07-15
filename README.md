@@ -16,9 +16,9 @@ Challenges Completed:
 - Hash Cracking
     - Mildly Disastrous Security (50)
 - Rev
-    - babyRev (50)
+    - babyRev (50) - [Resolution Code](https://github.com/jacopomoioli/CTFs/blob/main/2025/L3akCTF%202025/babyrev.py)
 - Web
-    - Flag L3ak (50)
+    - Flag L3ak (50) - [Resolution Code](https://github.com/jacopomoioli/CTFs/blob/main/2025/L3akCTF%202025/flagl3ak.py)
 
 Really disappointed by how little i managed to do, not trying to find any excuses.
 It's been quite a big while since the last time i did a CTF, so i need to get a bit more used to the loop and keep pushing. 
